@@ -1,2 +1,1 @@
-# Website-Created-from-css-and-html
-this is the website i made from combining what i learnt in css and html.
+This is a website i made and styles using what i learnt on frontend simplified. this course has so far helped me to learn css and html. i have used these ;anguages to create this website. disclaimer: this is not a website with alot of content. the main focus of this project was to use flexbox to create aresponsive website and i believe i have succseded in this factor. this is not a serious attempt at a website and i will be soon trying to do that.
